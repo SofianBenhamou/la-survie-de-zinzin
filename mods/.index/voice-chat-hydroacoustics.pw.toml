@@ -1,0 +1,18 @@
+filename = 'voice-chat-hydroacoustics-1.0.0.jar'
+name = 'Voice Chat Hydroacoustics'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'voice-chat-hydroacoustics-1.0.0.jar'
+
+[download]
+hash = '8ee8d776ef40d06121454a10a47a424a47093bda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7892756
+project-id = 1507847

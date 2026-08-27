@@ -1,0 +1,67 @@
+
+["grass and dirt options"]
+	#Grass/dirt paths on
+	pathsOn = true
+	#Number of collisions to activate grass/dirt paths
+	pathSteps = 10.0
+	#Well worn paths become permanent
+	permPaths = true
+	#Walking through tall grass breaks it
+	grassClear = false
+	#Lightly formed paths can recover over time
+	pathRecovery = true
+	#Percentage chance of recovery on random tick
+	pathRecoverTime = 5.0
+	#Grass paths can be recovered with bonemeal
+	grassBonemeal = true
+
+	["grass and dirt options".blocks]
+		#Grass paths active
+		grassPaths = true
+		#Dirt paths active
+		dirtPaths = true
+		#Mud paths active
+		mudPaths = true
+		#Podzol paths active
+		podzolPaths = true
+		#Moss paths active
+		mossPaths = true
+		#Mycelium paths active
+		myceliumPaths = true
+
+["sand options"]
+	#Sand paths active
+	sandPaths = true
+	#Number of collisions to activate sand paths
+	sandSteps = 5.0
+	#Sand paths can recover over time
+	sandRecovery = true
+	#Percentage chance of recovery on random tick
+	sandRecoverTime = 10.0
+
+["snow options"]
+	#Snow paths active
+	snowPaths = false
+	#Snow paths can recover over time
+	snowRecovery = false
+	#Percentage chance of recovery on random tick
+	snowRecoverTime = 10.0
+	#Snow paths recover if it's snowing
+	snowCover = true
+	#Snow step particles active
+	snowParticles = true
+
+["stone options"]
+	#Right click on stone/cobblestone with pickaxe to create
+	stonePaths = true
+
+["global options"]
+	#Allow paths to be created when sneaking
+	sneakPath = true
+	#Allow paths to be created with feather falling enchantment
+	featherPath = false
+	#Player ridden entities can make paths
+	ridePath = true
+	#Allow villagers to make paths
+	villagerPath = true
+

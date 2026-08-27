@@ -1,0 +1,13 @@
+name = "La survie de zinzin"
+author = "Mr_Shampoing"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1a6fa39600cc84e11c16b22552feb66b3fa05dff1c23c29bac5bba20d0cf5147"
+
+[versions]
+forge = "47.4.22"
+minecraft = "1.20.1"

@@ -1,0 +1,9 @@
+#[Client] If true, displays the current protection value in the HUD
+displayCurrentInfectionProtection = true
+#[Client] Move the displayed protection value in the HUD in X-direction
+#Range: > 0
+deltaX = 0
+#[Client] Move the displayed protection value in the HUD in Y-direction
+#Range: > 0
+deltaY = 0
+

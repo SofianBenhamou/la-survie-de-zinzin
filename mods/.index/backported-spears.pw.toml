@@ -1,0 +1,18 @@
+filename = 'spear-backport-forge-1.4.7-1.20.1.jar'
+name = 'Backported Spears'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.7'
+
+[download]
+hash = '91e05901ea7a70f18fa8ea5afc38180afdc12dd350bc37902aac46eefe2c69da760082f08c612bbc9414abfbf8ee4d4afc3ee9a981f2108ac565b15619f81d7b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rVUtrHuM/versions/maGyr2Ki/spear-backport-forge-1.4.7-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'rVUtrHuM'
+version = 'maGyr2Ki'

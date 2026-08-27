@@ -1,0 +1,8 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["mod_resources", "vanilla", "fabric", "Moonlight Mods Dynamic Assets", "file/TitresPersonnalises", "immersive_weathering:visual_waxed_iron_items", "file/EnderDragonBossMusic.zip", "file/Ender_Dragon_Reborn-1.0.zip", "vanillabackport:freshly_animated", "file/FreshAnimations_v1.10.4.zip", "file/FA+All_Extensions-v1.8.1.zip", "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip", "file/CrOv + FrAn [V1.2.4].zip", "file/TZP_1.20.1_2.7.zip"]
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false
+

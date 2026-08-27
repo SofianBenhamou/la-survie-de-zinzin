@@ -1,0 +1,48 @@
+[
+    {
+        "winter": true,
+        "mob": ["minecraft:bee", "minecraft:frog"],
+        "result": "deny"
+    },
+    {
+        "winter": true,
+        "mob": ["minecraft:cow", "minecraft:sheep", "minecraft:pig", "minecraft:chicken"],
+        "result": "deny",
+        "random": 0.99
+    },
+    {
+        "winter": true,
+        "mob": "minecraft:stray",
+        "healthmultiply": 1.5,
+        "speedmultiply": 1.2
+    },
+    {
+        "winter": true,
+        "mob": ["minecraft:polar_bear", "minecraft:wolf"],
+        "healthmultiply": 1.2,
+        "speedmultiply": 1.2,
+        "damagemultiply": 1.2,
+        "angry": true,
+        "followrangemultiply": 10.0,
+        "random": 0.5
+    },
+    {
+        "summer": true,
+        "mob": "minecraft:husk",
+        "healthmultiply": 1.5,
+        "speedmultiply": 1.2
+    },
+    {
+        "summer": true,
+        "mob": "minecraft:stray",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "maxheight": 0,
+        "hostile": true,
+        "healthmultiply": 1.2,
+        "speedmultiply": 1.2,
+        "damagemultiply": 1.2
+    }
+]

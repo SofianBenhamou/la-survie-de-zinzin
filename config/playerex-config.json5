@@ -1,0 +1,55 @@
+{
+	"levelingSettings": {
+		"skillPointsPerLevelUp": 1,
+		"levelFormula": "stairs(x,0.2,2.4,17,10,25)"
+	},
+	"featureSettings": {
+		"resetOnDeath": false,
+		"itemBreakingEnabled": true,
+		"infiniteItemBreakingEnabled": false,
+		"timesItemCanBreak": 3,
+		"messageOnItemBreak": true,
+		"disableUI": false
+	},
+	"lifecycleSettings": {
+		"healthRegeneration": "ON_EVERY_SECOND"
+	},
+	"advancedSettings": {
+		"restorativeForceTicks": 600,
+		"restorativeForceMultiplier": 110,
+		"expNegationFactor": 95
+	},
+	"weaponLevelingSettings": {
+		"enabled": true,
+		"damagePerLevel": 0.1,
+		"formula": "5x^(1.1)",
+		"xpFromPassive": 10,
+		"xpFromHostile": 20,
+		"xpFromMiniboss": 50,
+		"xpFromBoss": 100,
+		"maxLevel": 500
+	},
+	"armorLevelingSettings": {
+		"enabled": true,
+		"armorPerLevel": 0.1,
+		"reductionPerLevel": 0.1,
+		"maxReduction": 25.0,
+		"formula": "5x^(1.1)",
+		"xpFromPassive": 10,
+		"xpFromHostile": 20,
+		"xpFromMiniboss": 50,
+		"xpFromBoss": 100,
+		"maxLevel": 500,
+		"destroyCurseOfBinding": true
+	},
+	"visualSettings": {
+		"showLevelOnNameplates": true,
+		"nameplateColor": "#FFFFAA00",
+		"tooltip": "Vanilla"
+	},
+	"soundSettings": {
+		"levelUpVolume": 100,
+		"skillUpVolume": 100,
+		"refundVolume": 100
+	}
+}

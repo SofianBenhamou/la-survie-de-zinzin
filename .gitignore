@@ -1,0 +1,109 @@
+# ==========================================
+# .gitignore complet pour Modpack Minecraft (Packwiz)
+# ==========================================
+
+# ------------------------------------------
+# Logs, Sauvegardes & Rapports de plantage
+# ------------------------------------------
+/logs/
+/crash-reports/
+/saves/
+/world/
+/screenshots/
+/dumps/
+/debug/
+
+# ------------------------------------------
+# Configuration locale et profil joueur
+# ------------------------------------------
+options.txt
+optionsof.txt
+options*.txt
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
+realms_persistence.json
+command_history.txt
+
+# ------------------------------------------
+# Fichiers de mods et caches internes
+# ------------------------------------------
+# Packwiz gère les mods via les fichiers .pw.toml.
+# On ignore les fichiers .jar dans mods/ pour ne pas alourdir Git.
+/mods/*.jar
+/mods/*.jar.disabled
+/mods/memory/
+
+# Caches générés par les mods, Mixin, Connector, KubeJS, etc.
+/.mixin.out/
+/mods/.connector/
+/local/
+/kubejs/data/
+rhino.local.properties
+defaultoptions.journal.json
+*.bak
+
+# ------------------------------------------
+# Configs de mods strictement CLIENT / PERSONNEL
+# ------------------------------------------
+# Mod Simple Voice Chat (paramètres micro & volumes joueurs)
+config/voicechat/category-volumes.properties
+config/voicechat/player-volumes.properties
+config/voicechat/username-cache.json
+config/voicechat/voicechat-client.properties
+
+# Mod Controllable (paramètres manette)
+config/controllable-client.toml
+config/controllable/
+
+# Mods d'immersion / graphiques client
+config/presencefootsteps/
+config/firstperson.json
+
+# Données locales de joueurs et de serveurs spécifiques
+config/hydroacoustics/
+config/npnt/data/
+controllable_natives/
+
+# ------------------------------------------
+# Resourcepacks et Shaderpacks
+# ------------------------------------------
+/resourcepacks/*.zip
+/shaderpacks/*.zip
+
+# ------------------------------------------
+# Outils, Builds & Exports
+# ------------------------------------------
+packwiz.exe
+packwiz
+/*.zip
+/*.mrpack
+/build/
+/.gradle/
+/run/
+
+# ------------------------------------------
+# Éditeurs de code (IDEs) & Système
+# ------------------------------------------
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Fichiers système (Windows / macOS)
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+desktop.ini

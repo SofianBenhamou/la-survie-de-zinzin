@@ -1,0 +1,712 @@
+[
+  {
+    "TitleId": "recrue",
+    "Conditions": [],
+    "Default": true,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "costaud",
+    "Conditions": [
+      "aptitude/Strength/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "brutus",
+    "Conditions": [
+      "aptitude/Strength/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "monstre_de_force",
+    "Conditions": [
+      "aptitude/Strength/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "resistant",
+    "Conditions": [
+      "aptitude/Constitution/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "incassable",
+    "Conditions": [
+      "aptitude/Constitution/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "sac_d_os",
+    "Conditions": [
+      "aptitude/Constitution/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "agile",
+    "Conditions": [
+      "aptitude/Dexterity/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "traqueur",
+    "Conditions": [
+      "aptitude/Dexterity/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "ombre_rapide",
+    "Conditions": [
+      "aptitude/Dexterity/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "protege",
+    "Conditions": [
+      "aptitude/Defense/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "blindage",
+    "Conditions": [
+      "aptitude/Defense/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tank_humain",
+    "Conditions": [
+      "aptitude/Defense/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "curieux",
+    "Conditions": [
+      "aptitude/Intelligence/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "cerveau",
+    "Conditions": [
+      "aptitude/Intelligence/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "le_penseur",
+    "Conditions": [
+      "aptitude/Intelligence/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "bricoleur",
+    "Conditions": [
+      "aptitude/Building/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "macon",
+    "Conditions": [
+      "aptitude/Building/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "batisseur",
+    "Conditions": [
+      "aptitude/Building/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "mage_novice",
+    "Conditions": [
+      "aptitude/Magic/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "sorcier",
+    "Conditions": [
+      "aptitude/Magic/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "archimage",
+    "Conditions": [
+      "aptitude/Magic/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "chanceux",
+    "Conditions": [
+      "aptitude/Luck/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "veinard",
+    "Conditions": [
+      "aptitude/Luck/greater_or_equal/16"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "intouchable",
+    "Conditions": [
+      "aptitude/Luck/greater_or_equal/32"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_dragon",
+    "Conditions": [
+      "EntityKilled/ender_dragon/greater_or_equal/1"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "bourreau_de_dragon",
+    "Conditions": [
+      "EntityKilled/ender_dragon/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "chasseur",
+    "Conditions": [
+      "stat/mob_kills/greater_or_equal/50"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "exterminateur",
+    "Conditions": [
+      "stat/mob_kills/greater_or_equal/200"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "machine_a_tuer",
+    "Conditions": [
+      "stat/mob_kills/greater_or_equal/1000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "heros_du_village",
+    "Conditions": [
+      "stat/raid_win/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "sans_pitie",
+    "Conditions": [
+      "EntityKilled/villager/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "pecheur",
+    "Conditions": [
+      "stat/fish_caught/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "braconneur_des_eaux",
+    "Conditions": [
+      "stat/fish_caught/greater_or_equal/100"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "nettoyeur_des_oceans",
+    "Conditions": [
+      "stat/fish_caught/greater_or_equal/500"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "enchanteur",
+    "Conditions": [
+      "stat/enchant_item/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "sorcier_des_runes",
+    "Conditions": [
+      "stat/enchant_item/greater_or_equal/30"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "maitre_enchanteur",
+    "Conditions": [
+      "stat/enchant_item/greater_or_equal/100"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "pelerin",
+    "Conditions": [
+      "stat/walk_one_cm/greater_or_equal/5000000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "escroc",
+    "Conditions": [
+      "stat/traded_with_villager/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "capitaine",
+    "Conditions": [
+      "stat/boat_one_cm/greater_or_equal/500000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "conducteur",
+    "Conditions": [
+      "stat/minecart_one_cm/greater_or_equal/500000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "cavalier",
+    "Conditions": [
+      "stat/horse_one_cm/greater_or_equal/500000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "bourreau_de_porcs",
+    "Conditions": [
+      "stat/pig_one_cm/greater_or_equal/200000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "marcheur_de_lava",
+    "Conditions": [
+      "stat/strider_one_cm/greater_or_equal/200000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "visiteur_du_nether",
+    "Conditions": [
+      "special/dimension/equals/minecraft:the_nether"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "traqueur_du_vide",
+    "Conditions": [
+      "special/dimension/equals/minecraft:the_end"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "chasseur_de_zombies",
+    "Conditions": [
+      "EntityKilled/zombie/greater_or_equal/50"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "sniper",
+    "Conditions": [
+      "EntityKilled/skeleton/greater_or_equal/50"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "artificier",
+    "Conditions": [
+      "EntityKilled/creeper/greater_or_equal/30"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "boucher",
+    "Conditions": [
+      "EntityKilled/cow/greater_or_equal/100"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "plumeur",
+    "Conditions": [
+      "EntityKilled/chicken/greater_or_equal/50"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "charcutier",
+    "Conditions": [
+      "EntityKilled/pig/greater_or_equal/50"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_dieu",
+    "Conditions": [
+      "EntityKilled/wither/greater_or_equal/1"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "meurtrier",
+    "Conditions": [
+      "EntityKilled/player/greater_or_equal/1"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "assassin",
+    "Conditions": [
+      "EntityKilled/player/greater_or_equal/3"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "terroriste",
+    "Conditions": [
+      "EntityKilled/player/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "nageur",
+    "Conditions": [
+      "stat/swim_one_cm/greater_or_equal/1000000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "mineur_de_fond",
+    "Conditions": [
+      "stat/mine_block/greater_or_equal/10000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "artisan",
+    "Conditions": [
+      "stat/craft_item/greater_or_equal/500"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "cadavre",
+    "Conditions": [
+      "stat/deaths/greater_or_equal/1"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "suicidaire",
+    "Conditions": [
+      "stat/deaths/greater_or_equal/3"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "chasseur_d_enderman",
+    "Conditions": [
+      "EntityKilled/enderman/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "pyromane",
+    "Conditions": [
+      "EntityKilled/blaze/greater_or_equal/15"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "voleur_de_tetes",
+    "Conditions": [
+      "EntityKilled/wither_skeleton/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_phantomes",
+    "Conditions": [
+      "EntityKilled/phantom/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "voleur_de_shulkers",
+    "Conditions": [
+      "EntityKilled/shulker/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "chasseur_de_pillards",
+    "Conditions": [
+      "EntityKilled/pillager/greater_or_equal/30"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "chasseur_de_sorcieres",
+    "Conditions": [
+      "EntityKilled/witch/greater_or_equal/15"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_ghast",
+    "Conditions": [
+      "EntityKilled/ghast/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "casseur_de_magma",
+    "Conditions": [
+      "EntityKilled/magma_cube/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "casseur_de_fer",
+    "Conditions": [
+      "EntityKilled/iron_golem/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "casseur_de_neige",
+    "Conditions": [
+      "EntityKilled/snow_golem/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_chauve_souris",
+    "Conditions": [
+      "EntityKilled/bat/greater_or_equal/50"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "pecheur_de_calamars",
+    "Conditions": [
+      "EntityKilled/squid/greater_or_equal/30"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_dauphins",
+    "Conditions": [
+      "EntityKilled/dolphin/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_pandas",
+    "Conditions": [
+      "EntityKilled/panda/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_renards",
+    "Conditions": [
+      "EntityKilled/fox/greater_or_equal/15"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "destructeur_de_ruches",
+    "Conditions": [
+      "EntityKilled/bee/greater_or_equal/30"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_d_axolotls",
+    "Conditions": [
+      "EntityKilled/axolotl/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_chevres",
+    "Conditions": [
+      "EntityKilled/goat/greater_or_equal/20"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_grenouilles",
+    "Conditions": [
+      "EntityKilled/frog/greater_or_equal/15"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_d_allay",
+    "Conditions": [
+      "EntityKilled/allay/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_warden",
+    "Conditions": [
+      "EntityKilled/warden/greater_or_equal/1"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_sniffer",
+    "Conditions": [
+      "EntityKilled/sniffer/greater_or_equal/3"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_breeze",
+    "Conditions": [
+      "EntityKilled/breeze/greater_or_equal/5"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_de_bogged",
+    "Conditions": [
+      "EntityKilled/bogged/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "tueur_d_armadillo",
+    "Conditions": [
+      "EntityKilled/armadillo/greater_or_equal/10"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  },
+  {
+    "TitleId": "invincible",
+    "Conditions": [
+      "stat/time_since_death/greater_or_equal/2400000"
+    ],
+    "Default": false,
+    "HideRequirements": true
+  }
+]

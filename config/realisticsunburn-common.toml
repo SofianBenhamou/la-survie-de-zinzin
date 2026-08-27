@@ -1,0 +1,10 @@
+#Maximum raycast distance in blocks (higher = more accurate long shadows, but slightly more costly)
+#Range: 16 ~ 512
+maxDistance = 384
+#Ticks between sun burn checks per mob (lower = more responsive, higher = better performance). 10 = 2 checks/sec
+#Range: 1 ~ 40
+checkInterval = 10
+#Distance in blocks between each debug particle (lower = denser trail)
+#Range: 0.5 ~ 5.0
+particleStep = 1.5
+
