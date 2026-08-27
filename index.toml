@@ -1391,11 +1391,6 @@ hash = "e566066eeece6bbecf1aad3a22cc8ac691a0484dac0a45f621626837da76f71a"
 metafile = true
 
 [[files]]
-file = "mods/.index/chat-heads.pw.toml"
-hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
-metafile = true
-
-[[files]]
 file = "mods/.index/chunky.pw.toml"
 hash = "04a51ef9ef682bf4edfaba76eba973eeaa2a9b4e1435a3d5d066c05027328b9b"
 metafile = true
@@ -1538,11 +1533,6 @@ metafile = true
 [[files]]
 file = "mods/.index/immersive-weathering.pw.toml"
 hash = "5673f2a793f9fbc19b1ea7771c0768b47440ab96b55962aecc7ce56a5a6be8c0"
-metafile = true
-
-[[files]]
-file = "mods/.index/in-control.pw.toml"
-hash = "3fd9895813bc6beb43f8c8e41a13a8a200f630e5282b5213cb5e7695182657f0"
 metafile = true
 
 [[files]]
