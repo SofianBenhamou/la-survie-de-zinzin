@@ -1482,7 +1482,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/forgified-fabric-api.pw.toml"
-hash = "3708215cdc4f849edee646a8ad4022e08b4eb2a75a4b644aad56e0f0fce95277"
+hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
 metafile = true
 
 [[files]]
@@ -1492,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/gabous-libs.pw.toml"
-hash = "936eb8be173871c1a9f868344785394cd6171a6e8eb0a318bde88de79ebc27aa"
+hash = "aaf05d58b4870261508cfbf78cb6a1104f44e64eb78a848533b7b3ce0fa46063"
 metafile = true
 
 [[files]]
@@ -1527,7 +1527,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/immersive-overlays.pw.toml"
-hash = "c981e488f619baa852962318926a9be38e5234e59e741157abc5a5b019d6c8d5"
+hash = "5fa4e7df40284c00c1c2e7c45ce4d65619a0358c7a78eb11a8d4de4eed896cf8"
 metafile = true
 
 [[files]]
