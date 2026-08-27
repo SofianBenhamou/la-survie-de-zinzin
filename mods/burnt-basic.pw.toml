@@ -1,0 +1,13 @@
+name = "Burnt Basic"
+filename = "burnt_basic-1.10.4.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aclfPzta/versions/zqFgsYtR/burnt_basic-1.10.4.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d9421737dd9217c44e138964b4121f134aa684953543bc265ca3f91d4ee7768a17e1cd1bcd37cea1294b9f55b0df5d16468b04ba099ff7a63bfb834c8f0717e8"
+
+[update]
+[update.modrinth]
+mod-id = "aclfPzta"
+version = "zqFgsYtR"

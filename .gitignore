@@ -82,6 +82,7 @@ packwiz
 /build/
 /.gradle/
 /run/
+*.jar
 
 # ------------------------------------------
 # Éditeurs de code (IDEs) & Système
