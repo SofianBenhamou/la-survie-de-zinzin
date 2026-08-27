@@ -1381,13 +1381,18 @@ hash = "cecac579b30d1f05abd49c5294904fe2d55682e95c056cff3d892811ed0b7452"
 metafile = true
 
 [[files]]
+file = "mods/.index/burnt-basic.pw.toml"
+hash = "d0f0f65a7aaab92df45025a00fef39aad18755f9182070312f1f8b2ddbe71d00"
+metafile = true
+
+[[files]]
 file = "mods/.index/burnt-cold-sweat-compat.pw.toml"
 hash = "e566066eeece6bbecf1aad3a22cc8ac691a0484dac0a45f621626837da76f71a"
 metafile = true
 
 [[files]]
 file = "mods/.index/chat-heads.pw.toml"
-hash = "95562b7b5c2bc29fcda70e634518b3378f5b025854af7c508231db41f9f261e3"
+hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
 metafile = true
 
 [[files]]
@@ -1411,18 +1416,8 @@ hash = "7675175efa229cf1011674713e7783cd47457cfacfcfa73b67a0fd414883b62d"
 metafile = true
 
 [[files]]
-file = "mods/.index/connectivity.pw.toml"
-hash = "aaf4ae248b738986c4f3203ae72bccbdd9fd5c870c0acae27eb5cdbb2dd15763"
-metafile = true
-
-[[files]]
 file = "mods/.index/connector.pw.toml"
 hash = "6678c26e61e39720cd8b5926050f9acf245a4d382fecd3c701df02704da2298b"
-metafile = true
-
-[[files]]
-file = "mods/.index/controllable.pw.toml"
-hash = "559fc0e9a2e30c7718279ceed2176a348a2b328248d2c5fa46f9be43f5225112"
 metafile = true
 
 [[files]]
@@ -1438,11 +1433,6 @@ metafile = true
 [[files]]
 file = "mods/.index/creeper-overhaul.pw.toml"
 hash = "5ef45898dd97d030bc2fc37beaaff06635330c63bbbd21e2eddb43546e1e90ec"
-metafile = true
-
-[[files]]
-file = "mods/.index/cupboard.pw.toml"
-hash = "d6f9c9e37c148557fc1bb1dfefe10eea702d05f308c6279a2373459ce1944550"
 metafile = true
 
 [[files]]
@@ -1462,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/emf-compat-core.pw.toml"
-hash = "59508fc5b076af09eeeaca7595643a59a264ab6edbe350b6eb5176656376169f"
+hash = "ac16b59745f0400a9dc1dadaacc5119f758c9dbb4f010ebbc65f5587a9538ba7"
 metafile = true
 
 [[files]]
@@ -1496,18 +1486,8 @@ hash = "b09fc2f08996b0ea65060acee77034f4f3a830d90b3caeef887d949ced2aa489"
 metafile = true
 
 [[files]]
-file = "mods/.index/food-spoilage.pw.toml"
-hash = "8da3ae31654a4d792863a6da804f476851585db65bc5238941516105492cfa34"
-metafile = true
-
-[[files]]
 file = "mods/.index/forgified-fabric-api.pw.toml"
 hash = "35e28802b68cd54470e3a0648dc7829cdb978c4dd072059ee6798a2308aabf06"
-metafile = true
-
-[[files]]
-file = "mods/.index/framework.pw.toml"
-hash = "0602410b54bc1873b0b45418c446afd45d02bcdf6d3eec0423d854b52c9d1dfe"
 metafile = true
 
 [[files]]
@@ -1522,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/geckolib.pw.toml"
-hash = "581ef16b56d9fca9da073c76ec11c662728e6e656e2661277bdc6e8bb26823e6"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
@@ -1562,7 +1542,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/in-control.pw.toml"
-hash = "28b00f143039bc1fbabee5956ce9e272bdf20593048ec57e8dae327614ced579"
+hash = "3fd9895813bc6beb43f8c8e41a13a8a200f630e5282b5213cb5e7695182657f0"
 metafile = true
 
 [[files]]
@@ -1608,11 +1588,6 @@ metafile = true
 [[files]]
 file = "mods/.index/mouse-tweaks.pw.toml"
 hash = "e8f62d831c13e415b2dbf2c3649912073fadbdb670bbbfbf6f7f290549bdcf16"
-metafile = true
-
-[[files]]
-file = "mods/.index/no-player-name-tags.pw.toml"
-hash = "230139371d3b410d0502ba4f87d14220ec4c370614f824c26ba45bd1b5131e36"
 metafile = true
 
 [[files]]
@@ -1666,11 +1641,6 @@ hash = "e2ea91319fe6df58e4b261174f4a10a15409ae451831a28b28d1becac91c69bd"
 metafile = true
 
 [[files]]
-file = "mods/.index/realisticsunburn.pw.toml"
-hash = "35263086e8590a27428d95ef37282806f2fbb42b65693999fe54f27b67a493ce"
-metafile = true
-
-[[files]]
 file = "mods/.index/resourceful-config.pw.toml"
 hash = "9644ce2c05ece1ce1eb680e01dfbc88639a278ba106d2a0b3cdb447d7d37c364"
 metafile = true
@@ -1683,11 +1653,6 @@ metafile = true
 [[files]]
 file = "mods/.index/rhino.pw.toml"
 hash = "8f22a494ca593926483a67ff18cd86134e82aa258790daffe3ee5d0fe6730b27"
-metafile = true
-
-[[files]]
-file = "mods/.index/savage-ender-dragon.pw.toml"
-hash = "cf16f79bc69f6fa2da2a11083922517da9b3eacc0ccec198e3738aa2548d97c7"
 metafile = true
 
 [[files]]
@@ -1707,12 +1672,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/simple-voice-chat.pw.toml"
-hash = "7442eddf5acb4570d7ac1d051ca062c25878e8e55871e6e3731e828fffde6ca1"
-metafile = true
-
-[[files]]
-file = "mods/.index/simply-desire-paths.pw.toml"
-hash = "b9853904bf922975e5d2b55b03e9c3e8e7cb0920a71a9395ce7dda8e7498fd7a"
+hash = "a577727b4b1fa0dd483e75c451d89840cb7231a4565d55b873e89eebd35708d2"
 metafile = true
 
 [[files]]
@@ -1741,23 +1701,8 @@ hash = "b8e3cb3241945dc2d16ed03f344f85736d1c206201bbf8438b27ac8094af4769"
 metafile = true
 
 [[files]]
-file = "mods/.index/trials-chambers-backport.pw.toml"
-hash = "176c9106c4ee964c49bbee87edebebf67b8afa2b71b11c52759b757d9476a8ad"
-metafile = true
-
-[[files]]
-file = "mods/.index/true-darkness-forge-updated-fork.pw.toml"
-hash = "310303962f2b3bafd3ceedb30d0e97a9ced2a16cd4845b65cb5d8de3fd442be6"
-metafile = true
-
-[[files]]
 file = "mods/.index/vanillabackport.pw.toml"
 hash = "21ad928c0e0f10f7134fa2a4fbb52ced44f8bc4be50fc72366ca80115f5aa840"
-metafile = true
-
-[[files]]
-file = "mods/.index/voice-chat-hydroacoustics.pw.toml"
-hash = "90c4d226c240607aab7e9c005bfd46c7522da00b0090ffb1bc3145bb767a92ab"
 metafile = true
 
 [[files]]
@@ -1988,11 +1933,6 @@ hash = "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1"
 [[files]]
 file = "mods/betterdays-1.20.1-3.3.4.5-FORGE.jar"
 hash = "68c33189d70e82fa9a1720cc43aa866dbfec1be0ac5b3b0ce7d7c334f52b1fe3"
-
-[[files]]
-file = "mods/burnt-basic.pw.toml"
-hash = "d0f0f65a7aaab92df45025a00fef39aad18755f9182070312f1f8b2ddbe71d00"
-metafile = true
 
 [[files]]
 file = "mods/burnt_basic-1.10.4.2-forge-1.20.1.jar"

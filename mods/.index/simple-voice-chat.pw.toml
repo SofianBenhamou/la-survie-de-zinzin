@@ -1,25 +1,13 @@
-filename = 'voicechat-forge-1.20.1-2.6.22.jar'
-name = 'Simple Voice Chat'
-side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[FORGE][1.20.1] Simple Voice Chat 1.20.1-2.6.22'
+name = "Simple Voice Chat"
+filename = "voicechat-forge-1.20.1-2.6.22.jar"
+side = "both"
 
 [download]
-hash = 'cc94c3eecc325ea3066ee3cd8bf57142d1b11762'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar"
+hash-format = "sha512"
+hash = "23c8b3a593fe506af8d8e0edc0afb45349777d5cdea41ffc3fa99afc2e3b9bc7770bb9951f674017ea5b3c23e111b0c6031ebd61820c9a0b5191e3992d9c8798"
 
-[update.curseforge]
-file-id = 8601186
-project-id = 416089
-
-[[x-prismlauncher-dependencies]]
-addonId = '348521'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '535489'
-type = 'OPTIONAL'
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "S11m0QIb"

@@ -108,3 +108,17 @@ ehthumbs.db
 Icon?
 Thumbs.db
 desktop.ini
+
+# Mods uniquement presents sur CurseForge
+!mods/controllable*.jar
+!mods/cupboard*.jar
+!mods/framework*.jar
+!mods/foodspoilage*.jar
+!mods/voice-chat-hydroacoustics*.jar
+!mods/noplayernametags*.jar
+!mods/realisticsunburn*.jar
+!mods/dragonfight*.jar
+!mods/paths*.jar
+!mods/Trials-Final.jar
+!mods/darkness-forge*.jar
+!mods/connectivity*.jar
