@@ -1,5 +1,5 @@
 name = "Burnt Basic"
-filename = "burnt_basic-1.10.4.2-forge-1.20.1.jar"
+filename = "../burnt_basic-1.10.4.2-forge-1.20.1.jar"
 side = "both"
 
 [download]

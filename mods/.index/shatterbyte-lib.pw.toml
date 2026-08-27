@@ -1,4 +1,4 @@
-filename = 'OctoLib-FORGE-0.5.0.1+1.20.1.jar'
+filename = '../OctoLib-FORGE-0.5.0.1+1.20.1.jar'
 name = 'ShatterLib | OctoLib'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

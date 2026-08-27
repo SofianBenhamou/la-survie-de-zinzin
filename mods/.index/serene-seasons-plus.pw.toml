@@ -1,4 +1,4 @@
-filename = 'Forge-Version-sereneseasonsplus-1.20.1-5.1.2.jar'
+filename = '../Forge-Version-sereneseasonsplus-1.20.1-5.1.2.jar'
 name = 'Serene Seasons Plus'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

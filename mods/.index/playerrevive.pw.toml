@@ -1,4 +1,4 @@
-filename = 'PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar'
+filename = '../PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar'
 name = 'PlayerRevive'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]

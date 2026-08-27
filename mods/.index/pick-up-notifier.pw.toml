@@ -1,4 +1,4 @@
-filename = 'PickUpNotifier-v8.0.0-1.20.1-Forge.jar'
+filename = '../PickUpNotifier-v8.0.0-1.20.1-Forge.jar'
 name = 'Pick Up Notifier'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

@@ -1,4 +1,4 @@
-filename = 'enhancedai-3.3.7.3.jar'
+filename = '../enhancedai-3.3.7.3.jar'
 name = 'Enhanced AI'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

@@ -1,4 +1,4 @@
-filename = 'insanelib-1.23.4.6.jar'
+filename = '../insanelib-1.23.4.6.jar'
 name = 'InsaneLib'
 side = 'both'
 x-prismlauncher-dependencies = []

@@ -1,4 +1,4 @@
-filename = 'hardcore_torches-1.20.1-x.jar'
+filename = '../hardcore_torches-1.20.1-x.jar'
 name = 'Hardcore Torches'
 side = 'both'
 x-prismlauncher-dependencies = []

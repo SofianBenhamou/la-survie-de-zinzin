@@ -1,4 +1,4 @@
-filename = 'embeddium-0.3.31+mc1.20.1.jar'
+filename = '../embeddium-0.3.31+mc1.20.1.jar'
 name = 'Embeddium'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]

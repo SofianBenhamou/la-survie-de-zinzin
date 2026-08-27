@@ -1,4 +1,4 @@
-filename = 'YungsBetterWitchHuts-1.20-Forge-3.0.3.jar'
+filename = '../YungsBetterWitchHuts-1.20-Forge-3.0.3.jar'
 name = "YUNG's Better Witch Huts"
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]

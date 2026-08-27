@@ -1,4 +1,4 @@
-filename = 'PuzzlesLib-v8.1.33-1.20.1-Forge.jar'
+filename = '../PuzzlesLib-v8.1.33-1.20.1-Forge.jar'
 name = 'Puzzles Lib'
 side = 'both'
 x-prismlauncher-dependencies = []

@@ -1,5 +1,5 @@
 name = "Immersive Overlays"
-filename = "immersiveoverlays-1.8.3+1.20.1-forge.jar"
+filename = "../immersiveoverlays-1.8.3+1.20.1-forge.jar"
 side = "client"
 
 [download]

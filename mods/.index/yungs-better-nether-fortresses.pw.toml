@@ -1,4 +1,4 @@
-filename = 'YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar'
+filename = '../YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar'
 name = "YUNG's Better Nether Fortresses"
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]

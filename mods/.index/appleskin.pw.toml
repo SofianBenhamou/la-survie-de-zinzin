@@ -1,4 +1,4 @@
-filename = 'appleskin-forge-mc1.20.1-2.5.1.jar'
+filename = '../appleskin-forge-mc1.20.1-2.5.1.jar'
 name = 'AppleSkin'
 side = 'both'
 x-prismlauncher-dependencies = []

@@ -1,4 +1,4 @@
-filename = 'spear-backport-forge-1.4.7-1.20.1.jar'
+filename = '../spear-backport-forge-1.4.7-1.20.1.jar'
 name = 'Backported Spears'
 side = 'both'
 x-prismlauncher-dependencies = []

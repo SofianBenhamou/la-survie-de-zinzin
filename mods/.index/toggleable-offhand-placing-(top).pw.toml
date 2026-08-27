@@ -1,4 +1,4 @@
-filename = 'no-offhand-placing+1.20-1.20.4-1.0.0.jar'
+filename = '../no-offhand-placing+1.20-1.20.4-1.0.0.jar'
 name = 'Toggleable Offhand Placing (TOP)'
 side = 'client'
 x-prismlauncher-dependencies = []

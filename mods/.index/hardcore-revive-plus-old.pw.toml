@@ -1,4 +1,4 @@
-filename = 'hardcore-revive-plus-1.7.1.jar'
+filename = '../hardcore-revive-plus-1.7.1.jar'
 name = 'Hardcore Revive+ [OLD VERSION]'
 side = 'both'
 x-prismlauncher-dependencies = []

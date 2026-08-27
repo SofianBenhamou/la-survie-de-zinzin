@@ -1,4 +1,4 @@
-filename = 'lithostitched-forge-1.20.1-1.4.11.jar'
+filename = '../lithostitched-forge-1.20.1-1.4.11.jar'
 name = 'Lithostitched'
 side = 'server'
 x-prismlauncher-dependencies = []

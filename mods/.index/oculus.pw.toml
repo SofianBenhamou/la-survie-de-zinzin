@@ -1,4 +1,4 @@
-filename = 'oculus-mc1.20.1-1.8.0.jar'
+filename = '../oculus-mc1.20.1-1.8.0.jar'
 name = 'Oculus'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]

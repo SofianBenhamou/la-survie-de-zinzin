@@ -1,4 +1,4 @@
-filename = 'zombieawareness-1.20.1-1.13.1.jar'
+filename = '../zombieawareness-1.20.1-1.13.1.jar'
 name = 'Zombie Awareness'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

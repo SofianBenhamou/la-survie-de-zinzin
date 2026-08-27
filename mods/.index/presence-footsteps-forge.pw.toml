@@ -1,4 +1,4 @@
-filename = 'Presence Footsteps [FORGE] 1.0.0.jar'
+filename = '../Presence Footsteps [FORGE] 1.0.0.jar'
 name = 'Presence Footsteps [FORGE]'
 side = 'client'
 x-prismlauncher-dependencies = []

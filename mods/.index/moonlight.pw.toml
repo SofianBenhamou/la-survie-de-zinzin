@@ -1,4 +1,4 @@
-filename = 'moonlight-1.20-2.16.34-forge.jar'
+filename = '../moonlight-1.20-2.16.34-forge.jar'
 name = 'Moonlight Lib'
 side = 'both'
 x-prismlauncher-dependencies = []

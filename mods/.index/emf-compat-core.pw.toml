@@ -1,5 +1,5 @@
 name = "EMF Compat: Core"
-filename = "emf-compat-core-1.20.1-1.1.2.jar"
+filename = "../emf-compat-core-1.20.1-1.1.2.jar"
 side = "client"
 
 [download]

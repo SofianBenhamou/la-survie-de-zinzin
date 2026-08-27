@@ -1,4 +1,4 @@
-filename = 'YungsBetterDungeons-1.20-Forge-4.0.4.jar'
+filename = '../YungsBetterDungeons-1.20-Forge-4.0.4.jar'
 name = "YUNG's Better Dungeons"
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]

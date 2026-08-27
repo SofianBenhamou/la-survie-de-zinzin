@@ -1,4 +1,4 @@
-filename = 'firstperson-forge-2.7.2-mc1.20.1.jar'
+filename = '../firstperson-forge-2.7.2-mc1.20.1.jar'
 name = 'First-person Model'
 side = 'client'
 x-prismlauncher-loaders = [ 'forge' ]

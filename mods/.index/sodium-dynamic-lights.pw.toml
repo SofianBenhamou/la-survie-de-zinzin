@@ -1,4 +1,4 @@
-filename = 'sodiumdynamiclights-forge-1.0.10-1.20.1.jar'
+filename = '../sodiumdynamiclights-forge-1.0.10-1.20.1.jar'
 name = 'Sodium Dynamic Lights'
 side = 'client'
 x-prismlauncher-loaders = [ 'forge' ]

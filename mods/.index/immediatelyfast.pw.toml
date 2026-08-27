@@ -1,4 +1,4 @@
-filename = 'ImmediatelyFast-Forge-1.5.5+1.20.4.jar'
+filename = '../ImmediatelyFast-Forge-1.5.5+1.20.4.jar'
 name = 'ImmediatelyFast'
 side = 'client'
 x-prismlauncher-dependencies = []

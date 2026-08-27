@@ -1,4 +1,4 @@
-filename = 'copperagebackport-forge-1.20.1-0.1.4.jar'
+filename = '../copperagebackport-forge-1.20.1-0.1.4.jar'
 name = 'Copper Age Backport'
 side = 'both'
 x-prismlauncher-dependencies = []

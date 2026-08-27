@@ -1,4 +1,4 @@
-filename = 'cloth-config-11.1.136-forge.jar'
+filename = '../cloth-config-11.1.136-forge.jar'
 name = 'Cloth Config API'
 side = 'both'
 x-prismlauncher-dependencies = []

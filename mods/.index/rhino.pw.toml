@@ -1,4 +1,4 @@
-filename = 'rhino-forge-2001.2.3-build.10.jar'
+filename = '../rhino-forge-2001.2.3-build.10.jar'
 name = 'Rhino'
 side = 'both'
 x-prismlauncher-dependencies = []

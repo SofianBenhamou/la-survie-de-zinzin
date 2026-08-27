@@ -1,4 +1,4 @@
-filename = 'burnt_coldsweat_compat-1.0.0.jar'
+filename = '../burnt_coldsweat_compat-1.0.0.jar'
 name = 'Burnt: Cold Sweat Compat'
 side = 'server'
 x-prismlauncher-dependencies = []

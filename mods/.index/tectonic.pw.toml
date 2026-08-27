@@ -1,4 +1,4 @@
-filename = 'tectonic-3.0.17-forge-1.20.1.jar'
+filename = '../tectonic-3.0.17-forge-1.20.1.jar'
 name = 'Tectonic'
 side = 'both'
 x-prismlauncher-dependencies = []

@@ -1,4 +1,4 @@
-filename = 'lexiconfig-forge-1.4.21-epic.jar'
+filename = '../lexiconfig-forge-1.4.21-epic.jar'
 name = 'Lexiconfig'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

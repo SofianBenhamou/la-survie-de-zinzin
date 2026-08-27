@@ -1,4 +1,4 @@
-filename = 'notenoughanimations-forge-1.12.4-mc1.20.1.jar'
+filename = '../notenoughanimations-forge-1.12.4-mc1.20.1.jar'
 name = 'Not Enough Animations'
 side = 'client'
 x-prismlauncher-dependencies = []

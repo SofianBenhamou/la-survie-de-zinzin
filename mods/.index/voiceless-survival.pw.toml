@@ -1,4 +1,4 @@
-filename = 'Voiceless Survival-forge-1.20.1-2.0.2.jar'
+filename = '../Voiceless Survival-forge-1.20.1-2.0.2.jar'
 name = 'Voiceless Survival'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

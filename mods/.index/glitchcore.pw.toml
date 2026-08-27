@@ -1,4 +1,4 @@
-filename = 'GlitchCore-forge-1.20.1-0.0.1.1.jar'
+filename = '../GlitchCore-forge-1.20.1-0.0.1.1.jar'
 name = 'GlitchCore'
 side = 'both'
 x-prismlauncher-dependencies = []

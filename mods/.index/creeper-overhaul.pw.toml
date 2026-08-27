@@ -1,4 +1,4 @@
-filename = 'creeperoverhaul-3.0.2-forge.jar'
+filename = '../creeperoverhaul-3.0.2-forge.jar'
 name = 'Creeper Overhaul'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]

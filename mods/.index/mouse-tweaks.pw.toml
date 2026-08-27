@@ -1,4 +1,4 @@
-filename = 'MouseTweaks-forge-mc1.20.1-2.25.1.jar'
+filename = '../MouseTweaks-forge-mc1.20.1-2.25.1.jar'
 name = 'Mouse Tweaks'
 side = 'client'
 x-prismlauncher-dependencies = []

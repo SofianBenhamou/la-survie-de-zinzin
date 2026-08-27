@@ -1,4 +1,4 @@
-filename = 'CreativeCore_FORGE_v2.12.39_mc1.20.1.jar'
+filename = '../CreativeCore_FORGE_v2.12.39_mc1.20.1.jar'
 name = 'CreativeCore'
 side = 'both'
 x-prismlauncher-dependencies = []

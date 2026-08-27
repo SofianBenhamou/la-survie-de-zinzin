@@ -1,4 +1,4 @@
-filename = 'entity_texture_features_1.20.1-forge-7.1.jar'
+filename = '../entity_texture_features_1.20.1-forge-7.1.jar'
 name = '[ETF] Entity Texture Features'
 side = 'client'
 x-prismlauncher-dependencies = []

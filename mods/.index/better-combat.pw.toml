@@ -1,4 +1,4 @@
-filename = 'bettercombat-forge-1.9.0+1.20.1.jar'
+filename = '../bettercombat-forge-1.9.0+1.20.1.jar'
 name = 'Better Combat'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]

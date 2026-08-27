@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "db2234d794923533bb081278c5237cf90d0d2e822459e565009db140c2b7fd78"
+hash = "43586aa5b8e950145f4cdd4f04fb291312408b3a6d8347098a018cb472e7d386"
 
 [versions]
 forge = "47.4.22"
 minecraft = "1.20.1"
+
+[options]
+meta-folder = "mods/.index"

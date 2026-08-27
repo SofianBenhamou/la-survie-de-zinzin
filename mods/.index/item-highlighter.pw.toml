@@ -1,4 +1,4 @@
-filename = 'Highlighter-1.20.1-forge-1.1.9.jar'
+filename = '../Highlighter-1.20.1-forge-1.1.9.jar'
 name = 'Item Highlighter'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]

@@ -1,4 +1,4 @@
-filename = 'endermanoverhaul-forge-1.20.1-1.0.4.jar'
+filename = '../endermanoverhaul-forge-1.20.1-1.0.4.jar'
 name = 'Enderman Overhaul'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
