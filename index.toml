@@ -1482,7 +1482,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/forgified-fabric-api.pw.toml"
-hash = "35e28802b68cd54470e3a0648dc7829cdb978c4dd072059ee6798a2308aabf06"
+hash = "3708215cdc4f849edee646a8ad4022e08b4eb2a75a4b644aad56e0f0fce95277"
 metafile = true
 
 [[files]]
@@ -1492,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/gabous-libs.pw.toml"
-hash = "a4d0fe2a5adb951e134d926de672115e6a93b8796c767974184ea13f91ddb904"
+hash = "936eb8be173871c1a9f868344785394cd6171a6e8eb0a318bde88de79ebc27aa"
 metafile = true
 
 [[files]]
@@ -1527,7 +1527,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/immersive-overlays.pw.toml"
-hash = "5198ae7befb19903a7afc07973597e1e82a5b19be3171218b318fdcadf46b598"
+hash = "c981e488f619baa852962318926a9be38e5234e59e741157abc5a5b019d6c8d5"
 metafile = true
 
 [[files]]
@@ -2005,8 +2005,8 @@ file = "mods/entity_texture_features_1.20.1-forge-7.1.jar"
 hash = "96b70f55efc64e5149ff977f065385d1634b8cbb71be856a0c7261c62c92f18c"
 
 [[files]]
-file = "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
-hash = "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03"
+file = "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
+hash = "3dd3f93c31122d928297220601f521e6a8a20356bafc7819bf4ddce4c2bb085d"
 
 [[files]]
 file = "mods/firstperson-forge-2.7.2-mc1.20.1.jar"
@@ -2021,8 +2021,8 @@ file = "mods/framework-forge-1.20.1-0.8.0.jar"
 hash = "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
 
 [[files]]
-file = "mods/gaboulibs-forge-1.8.1.jar"
-hash = "b273ead22d9f7e31dce61b8df553ca5703e276aec685eb608f522ec9ed7d9254"
+file = "mods/gaboulibs-forge-1.8.7.jar"
+hash = "d8f23783749b57e9c1cd66cafd25dbc4210e23f8de374996eaf7fb9f64ffa287"
 
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.8.4.jar"
@@ -2041,8 +2041,8 @@ file = "mods/immersive_weathering-1.20.1-2.0.5-forge.jar"
 hash = "b88353d6efe18635bac2d4169e704320987e9678fd683217195dcdcf2c1ca1ba"
 
 [[files]]
-file = "mods/immersiveoverlays-1.7.5+1.20.1-forge.jar"
-hash = "7eefec64fda94ce27547e077e863a4500abeacd617d462dd8d808133aeafe35f"
+file = "mods/immersiveoverlays-1.8.3+1.20.1-forge.jar"
+hash = "89171650f5912407a22d4e11fbf655dc33feafaae99b1c9b5dc864836d30487a"
 
 [[files]]
 file = "mods/incontrol-1.20-9.4.6.jar"

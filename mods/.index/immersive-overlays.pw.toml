@@ -1,25 +1,25 @@
-filename = 'immersiveoverlays-1.7.5+1.20.1-forge.jar'
+filename = 'immersiveoverlays-1.8.3+1.20.1-forge.jar'
 name = 'Immersive Overlays'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.7.5+1.20.1-forge'
+x-prismlauncher-version-number = '1.8.3+1.20.1-forge'
 
 [download]
-hash = 'd7a645317b31a775184a31d284a6408155f82d0a0247a550c7123246765b4391f1460f33862510f82c2b8c601bf6d0c6aceca8186457ef98fe668743fddf9fb5'
+hash = '0df6771845b567b6b2cbccfd17ed1ce9b54ec6c9b7ca31866601d52705fdae02c4ce8def9b6019e35c3731179301d435ef4a4f3478e767a57500c9bee31f6692'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/PKoLkD98/versions/Oi7F6K3R/immersiveoverlays-1.7.5%2B1.20.1-forge.jar'
+url = 'https://cdn.modrinth.com/data/PKoLkD98/versions/UBua8IuG/immersiveoverlays-1.8.3%2B1.20.1-forge.jar'
 
 [update.modrinth]
 mod-id = 'PKoLkD98'
-version = 'Oi7F6K3R'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'SNVQ2c0g'
-type = 'EMBEDDED'
+version = 'UBua8IuG'
 
 [[x-prismlauncher-dependencies]]
 addonId = '9s6osm5g'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'SNVQ2c0g'
+type = 'EMBEDDED'
